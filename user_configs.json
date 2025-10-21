@@ -1,6 +1,13 @@
-YGO-Custom-Cards/
-├── custom_cards.cdb      <-- Your custom database file (The .cdb)
-├── pics/                 <-- Folder for all card images
-│   └── 90000001.jpg      <-- Example: Greed Lizard image
-└── script/               <-- Folder for all card effects
-    └── c90000001.lua     <-- Example: Greed Lizard script
+{
+  "repos": [
+    {
+      "url": "[https://github.com/Codebreaker-Vi/YGO-Custom-Cards](https://github.com/Codebreaker-Vi/YGO-Custom-Cards)",
+      "repo_name": "Codebreaker's Customs",
+      "repo_path": "./repositories/Codebreaker-Vi-Customs",
+      "should_update": true,
+      "should_read": true
+    }
+  ],
+  "servers": [],
+  "urls": []
+}
